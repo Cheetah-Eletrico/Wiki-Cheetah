@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"restructuredtext.preview.docutils.disabled": true,
+		"esbonio.sphinx.confDir": ""
+	}
+}
